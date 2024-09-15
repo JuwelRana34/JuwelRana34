@@ -119,8 +119,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuwelRana34&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="JuwelRana34's GitHub Stats" />
 ---
-[![](https://visitcount.itsvg.in/api?id=JuwelRana34&icon=0&color=9)](https://visitcount.itsvg.in)
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
