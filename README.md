@@ -3,10 +3,11 @@
 </div>  
   
 
-### <div align="center">I'm Juwel Rana, a frontend developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Juwel Rana, a Frontend developer 👨‍💻 🚀</div>  
 
-About Me 
-👨‍💻 Hi, I’m a junior web application developer passionate about building responsive and user-friendly web applications. Skilled in React.js, Node.js, and Firebase, I enjoy creating scalable solutions and continuously improving my skills in full-stack development.
+#About Me 
+
+👨‍💻 Hi, I’m a Frontend developer passionate about building responsive and user-friendly website. Skilled in React.js, Node.js, and Firebase, I enjoy creating scalable solutions and continuously improving my skills in full-stack development.
 
 - 🔭 I’m currently working on school management website  
   
