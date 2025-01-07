@@ -4,8 +4,8 @@
   
 
 ### <div align="center">I'm Juwel Rana, a Frontend developer 👨‍💻 🚀</div>  
-
-#About Me 
+---
+# About Me 
 
 👨‍💻 Hi, I’m a Frontend developer passionate about building responsive and user-friendly website. Skilled in React.js, Node.js, and Firebase, I enjoy creating scalable solutions and continuously improving my skills in full-stack development.
 
@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces😂  
   
-
+---
 <br/>  
 
 
