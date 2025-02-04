@@ -87,9 +87,7 @@
  
 
 # 📊 GitHub Stats:
-  <img  width="845" src="https://github-profile-trophy.vercel.app/?username=JuwelRana34&theme=juicyfresh&no-bg=true" />
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=JuwelRana34&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="JuwelRana34's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JuwelRana34&theme=jolly&hide_border=true" alt="JuwelRana34's GitHub Stats" /> -->
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JuwelRana34&theme=radical&no-frame=false&no-bg=true&margin-w=4)
