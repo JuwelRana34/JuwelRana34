@@ -87,7 +87,7 @@
  
 
 # 📊 GitHub Stats:
-
+  <img src="https://github-readme-stats.vercel.app/api?username=JuwelRana34&show_icons=true" alt="Danny Koppenhagens Github Stats"></img>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JuwelRana34&theme=radical&no-frame=false&no-bg=true&margin-w=4)
