@@ -58,7 +58,7 @@
  
 
 # 📊 GitHub Stats:
-
+  <img width="845"  src="https://nirzak-streak-stats.vercel.app?user=JuwelRana34&hide_border=true&border_radius=5&card_width=800&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api?username=JuwelRana34&show_icons=true" alt="Danny Koppenhagens Github Stats"></img>
 
 ## 🏆 GitHub Trophies
