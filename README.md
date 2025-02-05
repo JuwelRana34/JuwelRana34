@@ -34,8 +34,6 @@
 </div>
 
 
-
-
 <br/>  
 
 
@@ -52,7 +50,10 @@
 </a>  
 </div>  
   
-
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 5px; text-align: center">
+  <img src="https://cdn-icons-png.flaticon.com/128/16008/16008423.png" style="margin-bottom: 5px; height: 2rem; width: 2rem;" />
+  Phone: +8801761632836
+</div>
 <br/>  
 
  
