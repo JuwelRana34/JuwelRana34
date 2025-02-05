@@ -27,14 +27,12 @@
 ## My Skill Set  
 <h3 align="left">Languages & Tools:</h3>
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,tailwind,redux&perline=6" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,firebase,git,github,tailwind,&perline=6" /> </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF" />
 </div>
 
-
-<table><tr><td valign="top" width="33%">
 
 
 
@@ -60,17 +58,18 @@
  
 
 # 📊 GitHub Stats:
+
   <img src="https://github-readme-stats.vercel.app/api?username=JuwelRana34&show_icons=true" alt="Danny Koppenhagens Github Stats"></img>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JuwelRana34&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JuwelRana34&limit=5&theme=omni&combine_all_yearly_contributions=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuwelRana34&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="JuwelRana34's GitHub Stats" />
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
